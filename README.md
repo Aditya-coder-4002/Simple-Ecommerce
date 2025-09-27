@@ -25,4 +25,4 @@ This project is for **learning/demo purposes**.
 ## ⚙️ Setup
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Aditya-coder-4002/ecommerce-java-servlets.git
+   git clone https://github.com/Aditya-coder-4002/Simple-Ecommerce.git
